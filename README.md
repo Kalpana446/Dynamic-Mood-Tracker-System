@@ -9,13 +9,13 @@ This project detects human emotions using multiple modalities:
 The detected emotions are combined to analyze stress levels and provide task recommendations.
 
 ## Technologies Used
--> Python
--> Google Colab
--> Vader Sentiment Analysis
--> Speech Recognition
--> DeepFace
--> OpenCV
--> Matplotlib
+- Python
+- Google Colab
+- Vader Sentiment Analysis
+- Speech Recognition
+- DeepFace
+- OpenCV
+- Matplotlib
 
 ## Features
 - Dynamic user text input
